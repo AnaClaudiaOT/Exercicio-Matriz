@@ -1,3 +1,3 @@
-# Exercicio-Matriz
+# ExercicioMatriz
 
 Exercicio Matriz Portugol
